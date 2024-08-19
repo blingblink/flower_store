@@ -1,5 +1,20 @@
 # flower_shop
 
+## Screenshots
+
+Landing page | Flowers page
+:-------------------------:|:-------------------------:
+![](./screenshots/landing_page.png)  |  ![](./screenshots/flowers.png)
+
+Orders Tracking page | Delivery Tracking page
+:-------------------------:|:-------------------------:
+![](./screenshots/order_tracking.png)  |  ![](./screenshots/delivery_tracking.png)
+
+Revenue Report page | Store Orders page
+:-------------------------:|:-------------------------:
+![](./screenshots/revenue_report.png)  |  ![](./screenshots/store_orders.png)
+
+
 ## Backend Requirements
 
 * [Docker](https://www.docker.com/).
