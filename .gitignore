@@ -1,0 +1,6 @@
+.vscode
+.mypy_cache
+docker-stack.yml
+**/__pycache__
+.DS_Store
+.env
